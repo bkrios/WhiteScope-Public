@@ -1,7 +1,7 @@
 WhiteScope-Public
 =================
 
-Public Github for WhiteScope - http://icswhitelist.com
+Public Github for WhiteScope - https://validate.whitescope.io/
 
 This code repository will host utilities and other helpful code snippets in support of the ICS-WhiteList/WhiteScope effort started by Billy Rios.
 
