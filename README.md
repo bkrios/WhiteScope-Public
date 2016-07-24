@@ -3,7 +3,7 @@ WhiteScope-Public
 
 Public Github for WhiteScope - https://validate.whitescope.io/
 
-This code repository will host utilities and other helpful code snippets in support of the ICS-WhiteList/WhiteScope effort started by Billy Rios.
+This code repository will host utilities and other helpful code snippets in support of the WhiteScope effort started by Billy Rios.
 
 ## Projects
 
@@ -15,6 +15,9 @@ The powershell cmdlets are written to help contributors with collecting the sign
 [Get-RepositoryData](/PS1/Get-RepositoryData.ps1) retrieves data from the online repository with known good files and hashes
 
 [Get-RepositoryDataAnalysis](/PS1/Get-RepositoryDataAnalysis.ps1) analyzes the data for matches retrieved by Get-RepositoryData
+
+[Verify-FileHashes](/PS1/Verify-FileHashes.ps1) allows for rapid comparison of file hashes with known reference data
+
 
 ## Contributors
 
