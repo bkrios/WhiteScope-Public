@@ -7,7 +7,7 @@ This code repository will host utilities and other helpful code snippets in supp
 
 ## Projects
 
-###Powershell Cmdlets
+### Powershell Cmdlets
 The powershell cmdlets are written to help contributors with collecting the signature data required to populate the whitelist database.
 
 [Get-FileSignatures](/PS1/Get-FileSignatures.ps1) supports data collection
